@@ -28,7 +28,7 @@ int main()
 	//===============
 
 
-	Counter counter(1, 1, 1);
+	Counter counter(5, 5, 20);
 	counter.display();
 
 	Clock sec = counter.t();
