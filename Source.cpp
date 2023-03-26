@@ -5,4 +5,5 @@ void main()
 {
 	int c, a, b;
 	 c = a + b;
+	 int x;
 }
