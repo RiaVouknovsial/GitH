@@ -17,7 +17,7 @@ public:
 };
 int main()
 {
-	//operator тип() const;
+	//operator пїЅпїЅпїЅ() const;
 
 	//Counter counter(1250);
 	//counter.display();
@@ -33,4 +33,5 @@ int main()
 
 	Clock sec = counter.t();
 	sec.display();
+
 }
